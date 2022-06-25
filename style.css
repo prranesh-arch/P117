@@ -1,0 +1,21 @@
+body{
+    background-color:yellow;
+   }
+   
+   h4{
+    background-color: white;
+    color:blue;
+    font-size:45px;
+   }
+
+label{
+font-size: 20px;
+}
+  
+#score{
+ text-align: left;
+}
+
+#timer{
+text-align: right;
+}
